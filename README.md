@@ -1,7 +1,9 @@
 # Read Me
 ---
+This repository hosts the model code for the Generalized Global Sustainability Model(GGSM). 
+The "GGSM MATLAB CODE" folder contains the main code for this model. 
 
-The directory structure of this module is as follows:
+The directory structure of the GGSM water-plotting code module is as follows:
 
 code - contains codes for various purposes
 data - contains the data files, input and output both
