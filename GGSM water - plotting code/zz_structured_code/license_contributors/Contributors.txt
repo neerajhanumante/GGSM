@@ -1,0 +1,35 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+Contributors: 
+    Neeraj C. Hanumante
+    Department of Chemical Engineering, 
+    Indian Institute of Technology Bombay, Mumbai, India
+
+    Apoorva Nisal
+    Department of Industrial Engineering, 
+    University of Illinois, Chicago, IL, USA
+
+Advisors:     
+    Yogendra Shastri
+    Department of Chemical Engineering, 
+    Indian Institute of Technology Bombay, Mumbai, India
+    
+    Urmila Diwekar
+    Department of Industrial Engineering, 
+    University of Illinois, Chicago, IL, USA;
+    Vishwamitra Research Institute, Crystal Lake, IL, USA
+
+    Heriberto Cabezas
+    Institute for Applied Earth Sciences,
+    University of Miskolc, Miskolc, Hungary
+
+Contact:
+    E-mail: urmila@vri-custom.org
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+This is a collaborative project between the USA, India, and Hungary. Collaborators from India acknowledge support from the Ministry of Human Resource Development, Government of India, through the SPARC (project code: P1238). The research contribution by H. Cabezas was carried out in the GINOP-2.3.2-15-2016-00010 framework “Development of enhanced engineering methods with the aim at utilization of subterranean energy resources” project at the Research Institute of Applied Earth Sciences of the University of Miskolc, the Széchenyi 2020 Plan, partially funded by the European Union, cofinanced by the European Structural and Investment Funds.
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+
